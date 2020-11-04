@@ -4,7 +4,7 @@ export const state = () => ({
       head: 'Sim Lab',
       link: 'fluid',
       title: 'Fluidized Bed Crystallizes',
-      img: '/ForParticleMagazine/image008.jpg',
+      img: '.zahra/ForParticleMagazine/image008.jpg',
     },
   ],
   publications: [
